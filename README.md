@@ -85,7 +85,6 @@ ideas into practical projects.
 ## 🎯 My Philosophy
 
 > "Learn. Build. Improve. Repeat. 🚀"
-> " be better than yesterday. "
 ---
 
 ⭐ Thanks for visiting my profile!
