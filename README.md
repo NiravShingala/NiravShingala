@@ -14,7 +14,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=BSc+IT+Student;C+%7C+C%2B%2B+Learner;AI+%26+Prompt+Engineering+Enthusiast;Future+Software+Developer;Always+Learning+Something+New+%F0%9F%9A%80" />
 </p>
 
-![Nirav Shingala](nirav-github-banner.svg)
+<img width="1592" height="492" alt="image" src="https://github.com/user-attachments/assets/9c804ac2-2e1e-4166-9681-c2cffe69d91b" />
+
 
 ## 🧑‍💻 About Me
 
