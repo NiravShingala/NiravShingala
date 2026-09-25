@@ -16,16 +16,31 @@
 
 <img width="1772" height="886" alt="Canva AI Design 25 Sept 2026, 18_57_52" src="https://github.com/user-attachments/assets/0c0107db-c4cc-4e87-b087-bb488c8f9606" />
 
-## 👨‍💻 About Me
+<table>
+<tr>
+<td width="50%">
 
-- 🎓 Currently pursuing **BSc IT**
-- 🏫 P P Savani University
-- 📚 First Semester Student
-- 💻 Currently learning **C, C++, and Programming**
-- 🤖 Interested in **AI & Prompt Engineering**
-- 🌐 Interested in **Web & Digital Technologies , cyber security**
-- 📈 Always learning and improving my skills
-- 🎯 Goal: Build meaningful technology projects
+### 👨‍💻 Who am I?
+
+🎓 BSc IT Student  
+💻 C & C++ Learner  
+🤖 AI Enthusiast  
+🚀 Future Developer  
+
+</td>
+
+<td width="50%">
+
+### ⚡ What I love
+
+🧠 Learning  
+💡 Creating  
+🔧 Building  
+🌐 Exploring Technology  
+
+</td>
+</tr>
+</table>
 
 - ## 🛠️ Tech Stack
 
@@ -50,17 +65,13 @@
 - 🔹 Artificial Intelligence
 - 🔹 Prompt Engineering
 
-- ## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
