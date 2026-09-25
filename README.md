@@ -29,7 +29,7 @@
 
 </td>
 
-<td width="50%">
+<td width="200%">
 
 ### ⚡ What I love
 
