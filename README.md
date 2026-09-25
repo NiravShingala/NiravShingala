@@ -66,6 +66,10 @@ ideas into practical projects.
 
 </p>
 
+🐍━━━━━━━━━━━━━━━━━━━━━━━
+    YOUR CONTRIBUTIONS
+━━━━━━━━━━━━━━━━━━━━━━━━
+
 ## 🌐 Connect With Me
 
 <p align="left">
