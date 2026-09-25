@@ -38,6 +38,63 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🧮 C Calculator
+
+A beginner-friendly calculator
+built using C programming.
+
+**Tech:** C
+
+</td>
+
+<td width="50%">
+
+### 🔢 C Number Toolkit
+
+Collection of programs for
+prime, factorial, palindrome,
+reverse, etc.
+
+**Tech:** C
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🎓 Student Result System
+
+Calculate total, average
+and percentage of students.
+
+**Tech:** C
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI Experiments
+
+My experiments with AI
+and prompt engineering.
+
+**Tech:** AI
+
+</td>
+
+</tr>
+</table>
+
 ## 📚 Currently Learning
 
 - 🔹 C Programming
