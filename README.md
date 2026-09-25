@@ -105,16 +105,6 @@ and prompt engineering.
 - 🔹 Artificial Intelligence
 - 🔹 Prompt Engineering
 
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NiravShingala&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiravShingala&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
 ## 🔥 GitHub Streak
 
 <p align="center">
